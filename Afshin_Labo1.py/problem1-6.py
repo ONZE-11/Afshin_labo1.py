@@ -11,7 +11,12 @@ elif(option==2):
 
 else:
     print(" votre choix n est pas valid ! ")
+    
+    
+    
+    
 #problem2
+
 def faire_puissance (nombre1,nombre2):
     return(nombre1**nombre2)
 
@@ -25,7 +30,12 @@ nombre1=option1
 nombre2=option2
 
 print(faire_puissance(nombre1,nombre2))
+
+
+
+
 #problem3
+
 def diviser_par_3_ou_3():
   
     Nombre=int(input("Entrez un nombre : "))
@@ -43,7 +53,11 @@ def diviser_par_3_ou_3():
 
 diviser_par_3_ou_3()
 
+
+
+
 #problem 4
+
 from re import M
 
 
@@ -56,7 +70,12 @@ Nombre=int(input("Entrez votre année de naissance : "))
 
 print("vous etes 50 ans dans cette anne:" , date_de_naissance(Nombre,m))
 
+
+
+
+
 #problem5
+
 from unicodedata import decimal
 
 
@@ -69,7 +88,12 @@ p3=decimal(2.256)
 
 print(multiplier_et_diviser(p1,p2,p3)) 
 
+
+
+
+
 #problem6
+
 repas = str(input("entrez votre repas prefere : "))
 pays = str(input("entrez votre pays prefere : "))
 anne = str(input("entrez votre l'année future  : "))
