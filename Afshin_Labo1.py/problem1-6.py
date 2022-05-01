@@ -15,6 +15,7 @@ while(not sortie):
     if no==1:
         
         def choisissez_nom_ou_nombre():
+            
             print("#1. aficher votre nom: ")
             print("#2. aficher le Numero etudiant: ")
 
@@ -117,6 +118,4 @@ while(not sortie):
        
 
 
-menue() 
-
-
+menue()
