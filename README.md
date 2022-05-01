@@ -1,4 +1,4 @@
-# Afshin_labo1.py
+# operation interessante
 Ce projet se compose de 7 opérations différentes qui sont affichées à l'utilisateur par un menu, les opérations effectuées par le programme comprennent brièvement :
 Afficher le nom et le numéro de l'élève
 Opération pour calcule nombre 1 puissan nombre2
