@@ -5,7 +5,9 @@ Divisibilité des nombres sur les nombres 2 et 3 Montrez l'année de vos cinquan
 installation : l’installation de ce logiciel n a pas besoin de supplémentaire .
 
  Support : Pour recevoir de l'aide, envoyer un email à l'adresse suivante et nous traiterons votre problème dans les plus brefs délais COURRIEL: Mahjoubia509@gmail.com
+ 
  Feuille de route : Dans les nouvelles mises à jour, nous prévoyons d'ajouter plus d'étapes à la liste des applications, telles que la mesure de l'espacement des points et des calculs mathématiques plus complexes.
+ 
 Contribution :   Je dois vous informer que nous sommes heureux que vous puissiez participiez à ce chemin avec nous et que nous puissions obtenir de meilleurs résultats avec votre participation.et c est ouvert pour les participants . 
 
 Auteurs et reconnaissances :  Il faut ajouter que ce projet a été réalisé avec la collaboration et la supervision de M. keven presseau et nous lui en sommes très reconnaissants .ReadMe labo1.docx
